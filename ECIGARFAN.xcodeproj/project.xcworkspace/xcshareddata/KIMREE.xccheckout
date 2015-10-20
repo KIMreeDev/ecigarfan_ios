@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>AFF9B160-34F4-40A8-9884-D58D3AEB45F6</string>
+	<key>IDESourceControlProjectName</key>
+	<string>KIMREE</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>7D4DF159-0D4F-4066-BF8C-B7BBA85CB886</key>
+		<string>https://bitbucket.org/KIMREE_01/kimree_cigarette.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>KIMREE.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>7D4DF159-0D4F-4066-BF8C-B7BBA85CB886</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://bitbucket.org/KIMREE_01/kimree_cigarette.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>7D4DF159-0D4F-4066-BF8C-B7BBA85CB886</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>7D4DF159-0D4F-4066-BF8C-B7BBA85CB886</string>
+			<key>IDESourceControlWCCName</key>
+			<string>kimree_cigarette</string>
+		</dict>
+	</array>
+</dict>
+</plist>
